@@ -46,3 +46,5 @@ branding with Lemur's own.
 	cp apps/lemur/product.php conf/product.php
 
 You should now have a working Lemur Learning installation.
+
+Next: [[:Support]]

@@ -13,3 +13,5 @@ Browser requirements:
 * Safari 4+
 * Firefox 3.5+
 * IE 8+
+
+Next: [[:Installation]]

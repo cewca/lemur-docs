@@ -1,5 +1,5 @@
 # Getting started
 
-* [[>Installation]]
 * [[>Requirements]]
+* [[>Installation]]
 * [[>Support]]
