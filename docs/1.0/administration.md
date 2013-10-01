@@ -1,6 +1,7 @@
 # Administration
 
-* [[>Customizing your design theme]]
+* [[>Customizing your design]]
 * [[>Configuration options]]
 * [[>Backups and updates]]
 * [[>Using the Lemur API]]
+* [[>Contributing]]
