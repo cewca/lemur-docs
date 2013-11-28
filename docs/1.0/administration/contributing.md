@@ -6,5 +6,5 @@ Here are some ways to contribute:
 
 * [Help improve our documentation](https://github.com/cewca/lemur-docs)
 * [Create and share design themes](http://www.elefantcms.com/themes).
-* [Help fix issues or work on new features](http://www.elefantcms.com/issues).
+* [Help fix issues or work on new features](https://github.com/cewca/lemur/issues?state=open).
 * [Contribute to the Elefant framework](http://www.elefantcms.com/community).
