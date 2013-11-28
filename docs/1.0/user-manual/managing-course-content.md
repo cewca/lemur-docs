@@ -94,6 +94,9 @@ participation even when learners aren't all online together. There's
 also a wiki-like quality to comments, where they become a living part
 of the course content over time.
 
+See the [[:Managing discussions]] page for more info about managing
+comments in your courses.
+
 > Note: If shared learner comments are not appropriate for your site, you can disable
 commenting under Tools > Courses > Settings.
 
