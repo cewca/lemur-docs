@@ -19,19 +19,6 @@ their name will appear grayed out and will not be clickable.
 > clicking the `Add User` link. This saves you having to visit Tools > Users
 > first if you're only adding one or two learners to a course.
 
-## Learner assessment
-
-To view a learner's answers for a course, click on the `Details` link next to
-that user in the list. The details page shows all of the questions in the course
-with their answers and a feedback box for the instructor to send feedback via
-email to the learner for each of their answers.
-
-Uncompleted questions will show `Not yet completed` in place of an answer, and
-questions with correct answers will be marked either `(correct)` or `(incorrect)`.
-
-Once feedback has been submitted for an answer, the feedback form will disappear
-for that question and the feedback will appear saved under their answer.
-
 ## Instructors
 
 The instructor of a course is set in the course settings. A course may have only
