@@ -143,9 +143,9 @@ class Doc {
 		}
 
 		// parse internal links
-		$out = preg_replace (
+		$out = preg_replace_callback (
 			'/\[\[(>|:)?(.+?)\]\]/e',
-			'$this->make_link (\'\\2\', \'\\1\')',
+			array ($this, 'make_link'),
 			$out
 		);
 
@@ -156,6 +156,9 @@ class Doc {
 	 * Make the HTML for a `[[Linked page]]` style link.
 	 */
 	public function make_link ($match, $type = null) {
+		$match = (is_array ($regs) && isset ($regs[2])) ? $regs[2] : $regs;
+		$type = (is_array ($regs) && isset ($regs[1])) ? $regs[1] : null;
+
 		$link = $this->link ();
 		$prefix = $this->link_base . '/' . $this->version ();
 		$parts = explode ('/', $match);
